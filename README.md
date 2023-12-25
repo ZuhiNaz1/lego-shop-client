@@ -19,7 +19,7 @@ Welcome to our Toy Marketplace, where you can explore and discover a wide range 
 
 **- Blogs on React.js:** Our website have blog posts on React.js, a popular JavaScript library used in building web applications.
 
-**- Mobile Responsive:** LeGO Shop is designed to be mobile responsive, allowing foodies to access it from any device.
+**- Mobile Responsive:** LeGO Shop is designed to be mobile responsive, allowing people to access it from any device.
 
 
 
