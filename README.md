@@ -2,7 +2,7 @@
 ---
 Welcome to our Toy Marketplace, where you can explore and discover a wide range of Lego sets that cater to every Lego enthusiast's imagination. Our website is dedicated to providing a seamless and enjoyable shopping experience for Lego lovers, with a specific emphasis on Lego City, Lego Star Wars, Lego Architecture, and Lego Cars.
 
-###**Best Features**
+**Best Features**
 ---
 **- Authentication and registration:** Users can register and login using their email and password.They can also use their Google login.
 
@@ -19,10 +19,10 @@ Welcome to our Toy Marketplace, where you can explore and discover a wide range 
 **- Mobile Responsive:** LeGO Shop is designed to be mobile responsive, allowing foodies to access it from any device.
 
 
-###**Technologies Used**
+**Technologies Used**
 ---
 LeGO Shop web app is built using React.js, Express.js, Node.js, Firebase, jwt, Tailwind CSS, and JavaScript, providing a modern and user-friendly experience.
 
-###**Live Website Link**
+**Live Website Link**
 ---
 https://legoshop-1768a.web.app/
